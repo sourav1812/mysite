@@ -39,7 +39,10 @@ a:hover{
 .middle-container {
   margin: 100px auto;
 }
-
+.profile{
+	width: 60px;
+	margin: 0px auto;
+}
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0px 20px;
